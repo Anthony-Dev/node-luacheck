@@ -1,4 +1,5 @@
-Copyright (c) 2015-2016 Radu Dan
+Copyright (c) 2018 Anthony D'Arienzo and Brevan Ellefsen
+    based on code from Radu Dan (za-creature) at https://github.com/za-creature/node-luacheck
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in

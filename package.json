@@ -1,21 +1,21 @@
 {
   "name": "luacheck",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "luacheck bindings for Node.JS",
   "keywords": [
     "luacheck",
     "lint",
     "bindings"
   ],
-  "author": "Radu Dan <za_creature@yahoo.com> (https://github.com/za-creature)",
+  "author": "Anthony D'Arienzo",
   "repository": {
     "type": "git",
-    "url": "https://github.com/za-creature/node-luacheck.git"
+    "url": "https://github.com/Anthony-Dev/node-luacheck"
   },
   "bugs": {
-    "url": "https://github.com/za-creature/node-luacheck/issues"
+    "url": "https://github.com/Anthony-Dev/node-luacheck/issues"
   },
-  "homepage": "https://github.com/za-creature/node-luacheck",
+  "homepage": "https://github.com/Anthony-Dev/node-luacheck",
   "license": "MIT",
   "main": "lib",
   "scripts": {

@@ -41,6 +41,7 @@ module.exports = (filename, options, next) ->
     args = [
         path.resolve(".", filename),
         "--quiet",
+        "--ranges",
         "--codes",
         "--no-color",
         "--formatter", "plain"
